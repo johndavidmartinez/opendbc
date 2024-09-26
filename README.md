@@ -1,3 +1,5 @@
+# Don't use this
+
 # opendbc
 
 opendbc is a Python API for your car. Read the speed, steering angle, and more. Send gas, braking, and steering commands.
